@@ -2,10 +2,19 @@ Justin Strauss
 ==============
 Soft Dev Fall Projects Period 7
 
-Intro Flask Project
+# Main Projects
+
+[Intro Flask Project] (https://github.com/stuycs-softdev/submissions/tree/master/7/intro-proj1/jstrauss_lakabas)
+
 Partner: Lev Akabas
+
 Due Date: Monday, 9/22
-Repo: submissions/7/intro-proj1/jstrauss_lakabas
+
+Requirements: 
+
+1. Have at least a couple of templates that use at least some Jinja substitutions
+2. Some form input
+3. Some styling -- you should use purecss, zurb foundation, twitter bootstrap or the like if you're not comfortable rolling your own. 
 
 Unit Test Project
 Partner: Derek Tsui
@@ -36,3 +45,5 @@ API Project TBA
 Partner: Angela Lin
 Due Date: Wednesday, 11/12
 Repo: TBA
+
+# Mini Projects
