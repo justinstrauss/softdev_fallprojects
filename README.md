@@ -1,3 +1,7 @@
+Justin Strauss
+==============
+Soft Dev Fall Projects Period 7
+
 Intro Flask Project
 Partner: Lev Akabas
 Due Date: Monday, 9/22
