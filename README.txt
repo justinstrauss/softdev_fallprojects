@@ -24,8 +24,8 @@ Due Date: Wednesday, 10/22
 Repo: justinstrauss/Group2sqlite
 
 MongoDB Account Manager
-Partner: Derek Tsui (Presented)
-Due Date: Wednesday, 11/5
+Partner: Derek Tsui
+Due Date: Wednesday, 11/5 (Presented)
 Repo: submissions/7/mongoproj/jstrauss_dtsui
 
 API Project TBA
