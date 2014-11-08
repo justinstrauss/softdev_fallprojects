@@ -10,12 +10,12 @@ Repo: submissions/7/intro-proj2/jstrauss-dtsui
 
 Regex Name Finder
 Partner: Nadia Saleh
-Due Date: Monday, 10/6
+Due Date: Monday, 10/6 (Presented)
 Repo: submissions/7/regexp/jstrauss_nsaleh
 
 Who/When Query Search
 Partners: Leslie Bresnahan, Lise Ho, Victor Gaitour
-Due Date: Tuesday, 10/14
+Due Date: Tuesday, 10/14 (Presented)
 Repo: victorgaitour/Group3
 
 SQLite Blog Engine
@@ -24,7 +24,7 @@ Due Date: Wednesday, 10/22
 Repo: justinstrauss/Group2sqlite
 
 MongoDB Account Manager
-Partner: Derek Tsui
+Partner: Derek Tsui (Presented)
 Due Date: Wednesday, 11/5
 Repo: submissions/7/mongoproj/jstrauss_dtsui
 
