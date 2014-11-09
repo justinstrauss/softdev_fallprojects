@@ -1,7 +1,7 @@
 Justin Strauss
 ==============
 Soft Dev Fall Projects Period 7
-
+-------------------------------
 ## Main Projects
 
 [**Who/When Query Search**] (https://github.com/victorgaitour/Group3)  
