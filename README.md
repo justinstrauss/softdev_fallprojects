@@ -12,7 +12,13 @@ Due Date: Tuesday, 10/14 (Presented)
 [**SQLite Blog Engine**] (https://github.com/justinstrauss/Group2sqlite)  
 Partners: Leslie Bresnahan, Alex Libman, Albert Yeung  
 Due Date: Wednesday, 10/22  
-Description:
+Requirements:  
+1. Index page: /  
+This page will list the titles of all the posts and have a form where one can enter a new title and post. The title should be unique. If the user clicks on a title, it will take them to a "blog post page".  
+2. blog post page: /title  
+This will take the user to an individual post. Use the <name> feature of flask for the routing. See the flask documentation if you don't remember this. This page will show the title and post as well as all the comments. There should be a form to add a new comment. There should also be a way to get back to the main page.  
+3. database stuff:  
+You'll need a table for the posts with titles and posts and a table for comments where each comment will link to a post.  
 `$git clone git@github.com:justinstrauss/Group2sqlite.git`
 
 [**API Project TBA**] (https://github.com/angela97lin/API_work)  
