@@ -22,16 +22,17 @@ Partner: Nadia Saleh
 Due Date: Monday, 10/6 (Presented)  
 Description: 
 
-[**Who/When Query Search**] (https://github.com/victorgaitour/Group3)
-Partners: Leslie Bresnahan, Lise Ho, Victor Gaitour
-Due Date: Tuesday, 10/14 (Presented)
+[**Who/When Query Search**] (https://github.com/victorgaitour/Group3)  
+Partners: Leslie Bresnahan, Lise Ho, Victor Gaitour  
+Due Date: Tuesday, 10/14 (Presented)  
 
-`monospace`,~~git@github.com:victorgaitour/Group3.git~~, `monospace`
+`~~git@github.com:victorgaitour/Group3.git~~`
 
-SQLite Blog Engine
-Partners: Leslie Bresnahan, Alex Libman, Albert Yeung
-Due Date: Wednesday, 10/22
-Repo: justinstrauss/Group2sqlite
+[**SQLite Blog Engine**] (https://github.com/justinstrauss/Group2sqlite)  
+Partners: Leslie Bresnahan, Alex Libman, Albert Yeung  
+Due Date: Wednesday, 10/22  
+Description:
+`~~git@github.com:justinstrauss/Group2sqlite.git~~`
 
 [**MongoDB Account Manager**]  (https://github.com/stuycs-softdev/submissions/tree/master/7/mongoproj/jstrauss_dtsui)
 Partner: Derek Tsui  
@@ -44,9 +45,9 @@ Requirements:
 5. At least 2 pages that can only be viewed if you are logged in.  
 Repo: submissions/7/mongoproj/jstrauss_dtsui
 
-API Project TBA
-Partner: Angela Lin
-Due Date: Wednesday, 11/12
-Repo: TBA
+**API Project TBA**  
+Partner: Angela Lin  
+Due Date: Wednesday, 11/12  
+Repo: TBA  
 
 # Mini Projects
