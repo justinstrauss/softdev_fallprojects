@@ -2,7 +2,7 @@ Justin Strauss
 ==============
 Soft Dev Fall Projects Period 7
 
-# Main Projects
+## Main Projects
 
 [**Intro Flask Project**] (https://github.com/stuycs-softdev/submissions/tree/master/7/intro-proj1/jstrauss_lakabas)  
 Partner: Lev Akabas  
@@ -25,16 +25,15 @@ Description:
 [**Who/When Query Search**] (https://github.com/victorgaitour/Group3)  
 Partners: Leslie Bresnahan, Lise Ho, Victor Gaitour  
 Due Date: Tuesday, 10/14 (Presented)  
-
-`~~git@github.com:victorgaitour/Group3.git~~`
+`$git clone git@github.com:victorgaitour/Group3.git`
 
 [**SQLite Blog Engine**] (https://github.com/justinstrauss/Group2sqlite)  
 Partners: Leslie Bresnahan, Alex Libman, Albert Yeung  
 Due Date: Wednesday, 10/22  
 Description:
-`~~git@github.com:justinstrauss/Group2sqlite.git~~`
+`$git clone git@github.com:justinstrauss/Group2sqlite.git`
 
-[**MongoDB Account Manager**]  (https://github.com/stuycs-softdev/submissions/tree/master/7/mongoproj/jstrauss_dtsui)
+[**MongoDB Account Manager**] (https://github.com/stuycs-softdev/submissions/tree/master/7/mongoproj/jstrauss_dtsui)  
 Partner: Derek Tsui  
 Due Date: Wednesday, 11/5 (Presented)  
 Requirements:  
@@ -45,9 +44,9 @@ Requirements:
 5. At least 2 pages that can only be viewed if you are logged in.  
 Repo: submissions/7/mongoproj/jstrauss_dtsui
 
-**API Project TBA**  
+[**API Project TBA**] (https://github.com/angela97lin/API_work)  
 Partner: Angela Lin  
 Due Date: Wednesday, 11/12  
-Repo: TBA  
+`$git clone git@github.com:angela97lin/API_work.git`
 
-# Mini Projects
+## Mini Projects
