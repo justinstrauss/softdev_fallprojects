@@ -7,24 +7,25 @@ Soft Dev Fall Projects Period 7
 [**Who/When Query Search**] (https://github.com/victorgaitour/Group3)  
 Partners: Leslie Bresnahan, Lise Ho, Victor Gaitour  
 Due Date: Tuesday, 10/14 (Presented)  
-`$git clone git@github.com:victorgaitour/Group3.git`
+Clone: `$git clone git@github.com:victorgaitour/Group3.git`
+Description:
 
 [**SQLite Blog Engine**] (https://github.com/justinstrauss/Group2sqlite)  
 Partners: Leslie Bresnahan, Alex Libman, Albert Yeung  
 Due Date: Wednesday, 10/22  
+Clone: `$git clone git@github.com:justinstrauss/Group2sqlite.git`  
 Requirements:  
-1. Index page: /  
+  1. Index page: /  
 This page will list the titles of all the posts and have a form where one can enter a new title and post. The title should be unique. If the user clicks on a title, it will take them to a "blog post page".  
-2. blog post page: /title  
+  2. blog post page: /title  
 This will take the user to an individual post. Use the <name> feature of flask for the routing. See the flask documentation if you don't remember this. This page will show the title and post as well as all the comments. There should be a form to add a new comment. There should also be a way to get back to the main page.  
-3. database stuff:  
+  3. database stuff:  
 You'll need a table for the posts with titles and posts and a table for comments where each comment will link to a post.  
-`$git clone git@github.com:justinstrauss/Group2sqlite.git`
 
 [**API Project TBA**] (https://github.com/angela97lin/API_work)  
 Partner: Angela Lin  
 Due Date: Wednesday, 11/12  
-`$git clone git@github.com:angela97lin/API_work.git`
+Clone: `$git clone git@github.com:angela97lin/API_work.git`
 
 ## Mini Projects
 
@@ -32,9 +33,9 @@ Due Date: Wednesday, 11/12
 Partner: Lev Akabas  
 Due Date: Monday, 9/22  
 Requirements:  
-1. Have at least a couple of templates that use at least some Jinja substitutions  
-2. Some form input  
-3. Some styling -- you should use purecss, zurb foundation, twitter bootstrap or the like if you're not comfortable rolling your own.  
+  1. Have at least a couple of templates that use at least some Jinja substitutions  
+  2. Some form input  
+  3. Some styling -- you should use purecss, zurb foundation, twitter bootstrap or the like if you're not comfortable rolling your own.  
 
 [**Unit Test Project**] (https://github.com/stuycs-softdev/submissions/tree/master/7/intro-proj2/jstrauss-dtsui)  
 Partner: Derek Tsui  
@@ -50,9 +51,9 @@ Description:
 Partner: Derek Tsui  
 Due Date: Wednesday, 11/5 (Presented)  
 Requirements:  
-1. A login page  
-2. A logout page  
-3. A register page  
-4. At least one page that can be viewed without logging in.  
-5. At least 2 pages that can only be viewed if you are logged in.  
+  1. A login page  
+  2. A logout page  
+  3. A register page  
+  4. At least one page that can be viewed without logging in.  
+  5. At least 2 pages that can only be viewed if you are logged in.  
 Repo: submissions/7/mongoproj/jstrauss_dtsui
