@@ -7,7 +7,7 @@ Soft Dev Fall Projects Period 7
 [**Who/When Query Search**](https://github.com/victorgaitour/Group3)  
 *Partners*: Leslie Bresnahan, Lise Ho, Victor Gaitour  
 *Due Date*: Tuesday, 10/14 (Presented)  
-*Clone*: `$git clone git@github.com:victorgaitour/Group3.git`
+*Clone*: `$git clone git@github.com:victorgaitour/Group3.git`  
 *Description*: Write an app that can answer who and when questions such as "Who played Spiderman?" or "When was the umbrella invented?" Use google and beautifulsoup.  
 
 [**SQLite Blog Engine**](https://github.com/justinstrauss/Group2sqlite)  
