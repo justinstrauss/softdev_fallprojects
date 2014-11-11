@@ -24,7 +24,7 @@ You'll need a table for the posts with titles and posts and a table for comments
 
 [**API Project**](https://github.com/angela97lin/API_work)  
 *Partner*: Angela Lin  
-*Due Date*: Wednesday, 11/12  
+*Due Date*: Wednesday, 11/12 (Presented)  
 *Clone*: `$git clone git@github.com:angela97lin/API_work.git`  
 *Description*: Google Maps supports conventional public transit directions and biking directions, but it doesn't natively support getting directions that take Citibike station locations into consideration. Our app uses the Citibike and Google Maps APIs to calculate Citibike directions.  
 
