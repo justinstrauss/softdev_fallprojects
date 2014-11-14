@@ -61,5 +61,5 @@ You'll need a table for the posts with titles and posts and a table for comments
 [**Decorated Login Project**](https://github.com/justinstrauss/decorate)  
 *Partner*: Derek Tsui  
 *Due Date*: Monday, 11/17  
-*Clone*: `$ git clone git@github.com:justinstrauss/decorate.git`  
+*Clone*: `$git clone git@github.com:justinstrauss/decorate.git`  
 *Description*: Add closures and decorators to the existing login project.  
