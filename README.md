@@ -57,3 +57,9 @@ You'll need a table for the posts with titles and posts and a table for comments
   3. A register page  
   4. At least one page that can be viewed without logging in.  
   5. At least 2 pages that can only be viewed if you are logged in.  
+
+[**Decorated Login Project**](https://github.com/justinstrauss/decorate)  
+*Partner*: Derek Tsui  
+*Due Date*: Monday, 11/17  
+*Clone*: `$ git clone git@github.com:justinstrauss/decorate.git`  
+*Description*: Add closures and decorators to the existing login project.  
