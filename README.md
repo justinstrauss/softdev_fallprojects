@@ -62,4 +62,4 @@ You'll need a table for the posts with titles and posts and a table for comments
 *Partner*: Derek Tsui  
 *Due Date*: Monday, 11/17  
 *Clone*: `$git clone git@github.com:justinstrauss/decorate.git`  
-*Description*: Add closures and decorators to the existing login project.  
+*Description*: We added decorators to streamline the code for our existing login project. I was responsible for @login_required, which was added to all protected pages, prompting the user to login if they try to access that page. Derek was responsible for adding @authenticate.  
