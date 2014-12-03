@@ -67,3 +67,10 @@ You'll need a table for the posts with titles and posts and a table for comments
 [**Javascript To-Do List**](https://github.com/stuycs-softdev/submissions/tree/master/7/todo/jstrauss)  
 *Due Date*: Tuesday, 12/2  
 *Description*: Use Javascript event handling to create an interactive to-do list.  
+
+[**Invisible Cow**](https://github.com/stuycs-softdev/submissions/tree/master/7/cow/jstrauss_dtsui)
+*Partner*: Derek Tsui  
+*Due Date*: Thursday, 12/4  
+*Requirements*:
+  1. A timer (setInterval)  
+  2. Mouse or keyboard event(s)  
