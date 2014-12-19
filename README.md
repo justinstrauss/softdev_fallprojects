@@ -2,10 +2,11 @@ Justin Strauss
 ==============
 Soft Dev Fall Projects Period 7
 
-## Final Project(https://github.com/justinstrauss/finalproj)  
-*Partners*:  
-*Due Date*:  
-*Clone*: `$git clone git@github.com:victorgaitour/Group3.git`  
+[**Final Project**](https://github.com/justinstrauss/finalproj)  
+*Partners*: Lev Akabas, Dennis Nenov, Derek Tsui  
+*Due Date*: mid-January  
+*Clone*: `$git clone git@github.com:justinstrauss/finalpro.git`  
+*Description*:  
 
 ## Main Projects
 
