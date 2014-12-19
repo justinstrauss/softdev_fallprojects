@@ -2,6 +2,11 @@ Justin Strauss
 ==============
 Soft Dev Fall Projects Period 7
 
+## Final Project(https://github.com/justinstrauss/finalproj)  
+*Partners*:  
+*Due Date*:  
+*Clone*: `$git clone git@github.com:victorgaitour/Group3.git`  
+
 ## Main Projects
 
 [**Who/When Query Search**](https://github.com/victorgaitour/Group3)  
