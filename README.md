@@ -13,7 +13,7 @@ Soft Dev Fall Projects Period 7
 
 [**Final Project**](https://github.com/justinstrauss/finalproj)  
 *Partners*: Lev Akabas, Dennis Nenov, Derek Tsui  
-*Due Date*: Tuesday, 1/27
+*Due Date*: Tuesday, 1/27  
 *Clone*: `$git clone https://github.com/justinstrauss/finalproj.git`  
 *Description*:  Have you ever tried to meet up with your friends only to realize that it's just too much of a headache to decide on a mutual restaurant and time to meet up? With Convenio, you and your friends can now convene with convenience. Visit our website: http://convenio.chill.in/ and watch our demo video: http://youtu.be/oF26g-Z9m7Y
 
