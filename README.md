@@ -1,7 +1,7 @@
 Justin Strauss
 ==============
 
-Soft Dev Spring Project Period 6
+Soft Dev Spring Projects Period 6
 ==============
 
 ## Main Projects
