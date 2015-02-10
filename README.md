@@ -8,6 +8,10 @@ Soft Dev Spring Projects Period 6
 
 ## Mini Projects
 
+[**HTML Canvas Animation**](https://github.com/stuycs-softdev/submissions/tree/master/6/canvas/jstrauss)  
+*Due Date*: Wednesday, 2/11 (Presented)  
+*Description*: Fill the Buckets - Release drops of water into moving buckets to accumulate the most points before the game ends when one of the buckets overflows.  
+
 Soft Dev Fall Projects Period 7
 ==============
 
