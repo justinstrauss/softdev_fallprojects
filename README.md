@@ -8,6 +8,15 @@ Soft Dev Spring Projects Period 6
 
 ## Mini Projects
 
+[**NYC High School SAT Scores**](https://github.com/stuycs-softdev/submissions/tree/master/6/data/jstrauss_bzhou)  
+*Partner*: Barak Zhou  
+*Due Date*: Tuesday, 2/23  
+*Requirements*: 
+1. convert the raw data to an array of dictionaries as specified in class.  
+2. make a new list from what you made in part one that is the list of all math scores  
+3. Calculate the mean of the math scores  
+4. make a new dictionary by pulling out schools from the dictionary in part 1 all schools with math schores > than the average.  
+
 [**Scalable Vector Graphics**](https://github.com/stuycs-softdev/submissions/tree/master/6/svg/jstrauss)  
 *Due Date*: Monday, 2/23  
 *Description*: Fill the Buckets - Release drops of water into moving buckets to accumulate the most points before the game ends when one of the buckets overflows.  
