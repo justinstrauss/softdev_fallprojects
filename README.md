@@ -8,6 +8,10 @@ Soft Dev Spring Projects Period 6
 
 ## Mini Projects
 
+[**Lodash Map, Filter, Reduce**](https://github.com/stuycs-softdev/submissions/tree/master/6/mtns/jstrauss)  
+*Due Date*: Tuesday, 3/3  
+*Description*: Practice with Lodash map, filter, reduce functions.  
+
 [**NYC High School SAT Scores**](https://github.com/stuycs-softdev/submissions/tree/master/6/data/jstrauss_bzhou)  
 *Partner*: Barak Zhou  
 *Due Date*: Tuesday, 2/23  
