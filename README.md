@@ -6,11 +6,15 @@ Soft Dev Spring Projects Period 6
 
 ## Main Projects
 
+[**Marionette Project**](https://github.com/justinstrauss/marionette_blog)  
+*Due Date*: Tuesday 3/31  
+*Description*: Do someting with Marionette.js that shows that you can make some views and store stuff on the server side.  
+
 ## Mini Projects
 
 [**Backbone Model View Controller**](https://github.com/stuycs-softdev/submissions/tree/master/6/backbone1/jstrauss)  
 *Due Date*: Thursday 3/12  
-*Description*:  
+*Description*: Add an extra table to the restaurant rating system model view controller that allows for deletion and upvoting/downvoting.  
 
 [**Lodash Map, Filter, Reduce**](https://github.com/stuycs-softdev/submissions/tree/master/6/mtns/jstrauss)  
 *Due Date*: Tuesday, 3/3  
@@ -27,11 +31,11 @@ Soft Dev Spring Projects Period 6
 
 [**Scalable Vector Graphics**](https://github.com/stuycs-softdev/submissions/tree/master/6/svg/jstrauss)  
 *Due Date*: Monday, 2/23  
-*Description*: Fill the Buckets - Release drops of water into moving buckets to accumulate the most points before the game ends when one of the buckets overflows.  
+*Description*: Fill the Buckets - Release drops of water into moving buckets to accumulate the most points before the game ends when one of the buckets overflows. (recreated with SVG)    
 
 [**HTML Canvas Animation**](https://github.com/stuycs-softdev/submissions/tree/master/6/canvas/jstrauss)  
 *Due Date*: Wednesday, 2/11  
-*Description*: Fill the Buckets - Release drops of water into moving buckets to accumulate the most points before the game ends when one of the buckets overflows.  
+*Description*: Fill the Buckets - Release drops of water into moving buckets to accumulate the most points before the game ends when one of the buckets overflows. (made with HTML Canvas)   
 
 Soft Dev Fall Projects Period 7
 ==============
