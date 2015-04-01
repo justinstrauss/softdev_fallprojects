@@ -6,8 +6,8 @@ Soft Dev Spring Projects Period 6
 
 ## Main Projects
 
-[**Marionette Project**](https://github.com/justinstrauss/marionette_blog)  
-*Due Date*: Tuesday 3/31  
+[**Marionette Project**](https://github.com/stuycs-softdev/submissions/tree/master/6/marionette/jstrauss)  
+*Due Date*: Wednesday, 4/1 (extenstion for def hacks(): mentors)
 *Description*: Do someting with Marionette.js that shows that you can make some views and store stuff on the server side.  
 
 ## Mini Projects
